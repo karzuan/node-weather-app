@@ -3,6 +3,6 @@ This is a command line app, using the weather API to retrieve data and show the 
 
 API from https://openweathermap.org/
 
-download the project files and run in command line:
+download the project files and run in the command line:
 
 $: node app.js [your city]
